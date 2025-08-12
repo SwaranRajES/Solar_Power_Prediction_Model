@@ -50,5 +50,5 @@ Handle more diverse datasets (weather, geographical info)
 Develop a web interface for live predictions
 
 **🧑‍💻 Author**
-Suresh Datt Joshi
-📧 sureshdj9632@gmail.com
+Swaran Raj E S
+📧 swaranraj733@gmail.com
