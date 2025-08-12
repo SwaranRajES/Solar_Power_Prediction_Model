@@ -30,7 +30,7 @@ The model takes solar energy generation data and predicts output power generatio
 and R² score are used to validate performance.
 
 **🏁 Getting Started**
-Clone the repository:  git clone https://github.com/1-suresh/solar_power_prediction_model.git
+Clone the repository:  git clone https://github.com/SwaranRajES/solar_power_prediction_model.git
                        cd solar_power_prediction_model
 
 Install dependencies:  pip install -r requirements.txt
